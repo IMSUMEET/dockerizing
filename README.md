@@ -1,0 +1,2 @@
+# dockerizing
+help for docker 
